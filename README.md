@@ -23,12 +23,12 @@ Resaurant recommendation on Yelp data, based on collaborative filtering
 
 ## Exploratory Data Analysis
 
-- Following [notebook](blabla) contains the EDA of the yelp data.
+- Following [notebook](https://github.com/HimanS-sys/Yelp-Recommendation-System/blob/main/yelp_eda.ipynb) contains the EDA of the yelp data.
 
 ## Collaborative Filtering
 
 - The collaborative filtering algorithm is very popular in online streaming platforms and e-commerse sites where the customer interacts with each product (which can be a movie/ song or consumer products) by either liking/ disliking or giving a rating of sorts
-- Following [notebook](blabla) contains colaborative filtering based recommendation system model training and results
+- Following [notebook](https://github.com/HimanS-sys/Yelp-Recommendation-System/blob/main/ds1_yelp_main.ipynb) contains colaborative filtering based recommendation system model training and results
 
 ## Presentation
 
