@@ -30,8 +30,7 @@ Resaurant recommendation on Yelp data, based on collaborative filtering
 - The collaborative filtering algorithm is very popular in online streaming platforms and e-commerse sites where the customer interacts with each product (which can be a movie/ song or consumer products) by either liking/ disliking or giving a rating of sorts
 - Following [notebook](blabla) contains colaborative filtering based recommendation system model training and results
 
-## Result
+## Presentation
 
-- The poster below summarizes the whole project along with results.
-
-<img src="https://github.com/HimanS-sys/Yelp-Recommendation-System/blob/main/yelp_recommender_poster.pdf">
+- The followinng [poster](https://github.com/HimanS-sys/Yelp-Recommendation-System/blob/main/yelp_recommender_poster.pdf) summarizes the whole project along with results.
+- Click [here](https://github.com/HimanS-sys/Yelp-Recommendation-System/blob/main/DS1_Project.pdf) to view the presentation.
